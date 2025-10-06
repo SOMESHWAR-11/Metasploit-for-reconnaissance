@@ -48,7 +48,8 @@ Type help or a question mark "?" to see the list of all available commands you c
 
 ### msf > db_nmap 192.168.181.0/24
 
-<img width="546" height="127" alt="image" src="https://github.com/user-attachments/assets/2c3ff682-d95f-4e4b-a007-2cfae288f5f2" />
+<img width="659" height="139" alt="image" src="https://github.com/user-attachments/assets/20bbadce-5b98-4760-ab96-94d4841a9aca" />
+
 
 
 
@@ -68,7 +69,8 @@ Type help or a question mark "?" to see the list of all available commands you c
 
 ### db_nmap -sV -sC -p 3306 <metasploitable_ip_address>
 
-<img width="635" height="152" alt="image" src="https://github.com/user-attachments/assets/44f127ab-604c-45c9-9e79-6512149301a2" />
+<img width="771" height="171" alt="image" src="https://github.com/user-attachments/assets/3c22e211-7801-416f-ba1a-dbbb7e5ed670" />
+
 
 
 ### search
