@@ -21,7 +21,7 @@ Find out the ip address of the attackers system
 
 ### OUTPUT:
 
-<img width="703" height="347" alt="image" src="https://github.com/user-attachments/assets/7c413db4-e572-48b8-8e24-649c62b42348" />
+<img width="863" height="421" alt="image" src="https://github.com/user-attachments/assets/32388658-a12d-4010-a7ee-984b6a4c427a" />
 
 
 
@@ -29,7 +29,8 @@ Find out the ip address of the attackers system
 
 ### OUTPUT:
 
-<img width="610" height="562" alt="image" src="https://github.com/user-attachments/assets/795f030e-0e0e-47b1-8215-582c20ef31be" />
+<img width="888" height="714" alt="image" src="https://github.com/user-attachments/assets/c1110d16-f6e0-447e-91e0-4f18dd0a4047" />
+
 
 
 
